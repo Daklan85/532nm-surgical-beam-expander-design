@@ -65,6 +65,10 @@ $$
 2z_R \approx 7.38\,\text{mm}
 $$
 
+### 2.5 Verification Script
+[![Guassian Preview](assets/gaussian_beam_code.png)](scripts/gaussian_design.py)
+
+
 
 ## 3. Optical Layout (OpticSketcher Simulation)
 * [Insert exported optical schematic from `/docs`]
