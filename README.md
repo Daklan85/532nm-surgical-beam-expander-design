@@ -3,8 +3,8 @@
 ## 1. Problem Statement & System Requirements
 * **Application:** Retinal photocoagulation / ophthalmic surgical delivery
 * **Wavelength:** 532 nm (Frequency-doubled Nd:YAG)
-* **Target Working Distance:** [To be defined in Phase 2]
-* **Target Focused Spot Diameter ($1/e^2$):** [To be defined in Phase 2]
+* **Target Working Distance:** 150 mm
+* **Target Focused Spot Diameter ($1/e^2$):** ≈ 50 μm
 
 ## 2. Theoretical First-Principles Design
 ### 2.1 Ophthalmic Engineering Requirements
